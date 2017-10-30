@@ -6,7 +6,7 @@
  * Made By Joash Pereira
  * Thanks for MaterializeCSS.com
  */
-
+/* 
 .default_color {
     background-color: #2196F3 !important
 }
@@ -113,7 +113,7 @@ nav ul a {
 }
 
 .cd-headline.type .cd-words-wrapper::after {
-    /* vertical bar */
+    
     content: '';
     position: absolute;
     right: 0;
@@ -223,7 +223,7 @@ nav ul a {
 }
 
 
-/* Preloader */
+
 
 #preloader {
     position: fixed;
@@ -232,9 +232,9 @@ nav ul a {
     right: 0;
     bottom: 0;
     background-color: #fff;
-    /* change if the mask should have another color then white */
+   
     z-index: 1200;
-    /* makes sure it stays on top */
+ 
 }
 
 #status {
@@ -242,15 +242,15 @@ nav ul a {
     height: 200px;
     position: absolute;
     left: 50%;
-    /* centers the loading animation horizontally one the screen */
+   
     top: 50%;
-    /* centers the loading animation vertically one the screen */
+    
     background-image: url(../img/status.gif);
-    /* path to your loading animation */
+    
     background-repeat: no-repeat;
     background-position: center;
     margin: -100px 0 0 -100px;
-    /* is width and height divided by two */
+  
 }
 
 @media only screen and (max-width: 480px) {
@@ -310,4 +310,7 @@ footer.page-footer {
     border-style: solid;
     border-width: medium;
     border-color: black;
+} */
+.dream{
+    text-align: center!important;
 }
