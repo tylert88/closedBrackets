@@ -282,3 +282,24 @@ nav a.button-collapse {
 footer.page-footer {
   margin-top: 0px !important
 }
+
+.form {
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  align-content: center;
+  margin:0 auto;
+  width: 50%;
+  padding: 10px;
+     border: 1px solid black;
+     box-shadow:  -1px 1px black,
+          -2px 2px #77aaff,
+          -3px 3px #77aaff,
+          -4px 4px #77aaff,
+          -5px 5px #77aaff;
+}
+
+.contact{
+  color: white;
+  text-align: center !important;
+}
