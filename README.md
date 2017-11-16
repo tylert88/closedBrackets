@@ -1,7 +1,7 @@
 <h1>Company Website</h1>
 <p> Made with Materialize</p>
 
-![](www/img/Closed-Brackets.gif)
+![](www/img/Closed_Brackets.gif)
 <br>
 <br>
 
